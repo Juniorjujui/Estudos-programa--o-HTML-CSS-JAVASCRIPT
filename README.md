@@ -1,4 +1,4 @@
-<h1 align="center">  </h1>
+<h1 align="center"> Incianado HTML CSS jAVASCRIPT </h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="./preview.png">
 </p>
 
 <br>
@@ -45,3 +45,4 @@ Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+# Estudos-programa--o-HTML-CSS-JAVASCRIPT
